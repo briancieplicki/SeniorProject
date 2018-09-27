@@ -1,11 +1,13 @@
-Period 1 Report:
+Report 1:
 
-I have concluded my research phase of the process and am ready to begin implementation in the upcoming period of time.
+I have concluded my research and preparatory phase of the process and am ready to begin implementation in the upcoming two weeks. 
 
-In the upcoming two week period I want to establish a simple UI an a user to input a user name and password, and successfully log into their account through database verification.
+In the upcoming two week period I want to establish a simple UI which allows a user to input a user name and password, and create an account. 
 
-As well as this, I will create a detailed UML diagram for the remainder of the project to allow my self a strong sense of direction when moving forward and adding the remaining features.
+Once they create this account, the information will be stored in the database (which I will set up) and the user will be able to input their credentials and successfully log into their account through the app.
 
-I feel confident about what this application needs and what I want to make sure it contains. I am certain that I have a strong sense of direction with where this project is headed and am excited to begin the implementation phase. 
+As well as this, in this two week period I will create a detailed UML diagram for the project to further give my self a strong sense of direction when moving forward and adding the remaining features.
 
--BC 
+I feel confident about what this application needs and what I want to make sure it contains, I am excited for this upcoming 2 week period. 
+
+-Brian Cieplicki
